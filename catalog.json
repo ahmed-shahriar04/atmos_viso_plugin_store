@@ -1,0 +1,18 @@
+﻿{
+  "store_version": "1.0.0",
+  "last_updated": "2026-10-14",
+  "plugins": [
+    {
+      "id": "neon-clock",
+      "name": "Neon Glaze Clock",
+      "version": "1.0.0",
+      "category": "Clock",
+      "author": "Shahriar Ahmed Riaz",
+      "description": "Minimalist ambient neon digital clock widget with glow effects.",
+      "preview": "https://raw.githubusercontent.com/ahmed-shahriar04/atmos_viso_plugin_store/main/plugins/neon-clock/preview.png",
+      "download_url": "https://raw.githubusercontent.com/ahmed-shahriar04/atmos_viso_plugin_store/main/plugins/neon-clock/",
+      "size": "45 KB",
+      "verified": true
+    }
+  ]
+}
