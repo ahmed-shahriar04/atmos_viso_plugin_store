@@ -1,9 +1,0 @@
-﻿{
-  "id": "neon-clock",
-  "name": "Neon Glaze Clock",
-  "version": "1.0.0",
-  "author": "Shahriar Ahmed Riaz",
-  "dimensions": { "width": 320, "height": 160 },
-  "pin_level": "bottom",
-  "entry": "index.html"
-}
