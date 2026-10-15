@@ -1,0 +1,15 @@
+﻿[
+  {
+    "id": "index",
+    "name": "Cyber Tap Widget",
+    "version": "1.0.0",
+    "author": "Shahriar Ahmed Riaz",
+    "description": "Interactive Cyber Tap counter widget for desktop.",
+    "category": "utilities",
+    "featured": true,
+    "size": "5.69 KB",
+    "icon": "fa-solid fa-hand-pointer",
+    "badge": "Official",
+    "download_url": "https://raw.githubusercontent.com/ahmed-shahriar04/atmos_viso_plugin_store/main/plugins/cybertap.atmvis"
+  }
+]
