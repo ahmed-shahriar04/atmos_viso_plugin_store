@@ -11,5 +11,18 @@
     "icon": "fa-solid fa-hand-pointer",
     "badge": "Official",
     "download_url": "https://raw.githubusercontent.com/ahmed-shahriar04/atmos_viso_plugin_store/main/plugins/cybertap.atmvis"
-  }
+  },
+  {
+  "id": "musica-visualizer",
+  "name": "Musica Visualizer",
+  "version": "1.0.6",
+  "author": "Codiology Labs",
+  "description": "System-wide audio-reactive gradient visualizer with multi-theme engine, rotation presets, and live spectrum capture from any app.",
+  "category": "visualizers",
+  "featured": true,
+  "size": "2.15 MB",
+  "icon": "fa-solid fa-music",
+  "badge": "Official",
+  "download_url": "https://raw.githubusercontent.com/ahmed-shahriar04/atmos_viso_plugin_store/main/plugins/musica-visualizer.atmvis"
+}
 ]
